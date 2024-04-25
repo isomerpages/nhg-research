@@ -10,22 +10,30 @@ sections:
   - hero:
       title: NHG REDCap
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
+        - title: Learning REDCap
+          description: ""
+          url: /privacy/
         - title: REDCap User Accounts
           description: ""
           url: https://google.com
         - title: REDCap Project Request
           description: ""
           url: https://gmail.com
-        - title: Learning REDCap
-          description: ""
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 25 April 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
