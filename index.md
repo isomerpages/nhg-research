@@ -20,6 +20,7 @@ sections:
         - title: REDCap Project Request
           description: ""
           url: https://gmail.com
+      variant: center
   - infobar:
       title: What is REDCap
       description: REDCap is an easy-to-use web application designed to manage and
