@@ -9,5 +9,11 @@ contacts:
       - email: redcap@nhg.com.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <p><strong>Mon - Fri</strong>:&nbsp;8.30am - 6.00pm<br> Closed on Public
+          Holidays</p>
+    title: Operating Hours
 feedback: ""
 ---
