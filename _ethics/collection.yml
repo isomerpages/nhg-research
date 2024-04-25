@@ -2,4 +2,5 @@ collections:
   ethics:
     output: true
     order:
+      - Introduction to Ethics/Page 1.md
       - Introduction to Ethics/.keep
