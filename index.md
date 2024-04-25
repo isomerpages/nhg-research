@@ -21,19 +21,10 @@ sections:
           description: ""
           url: https://gmail.com
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: What is REDCap
+      description: "REDCap is an easy-to-use web application designed to
+        systematically manage and support electronic data capture for research
+        studies.   "
       button: Button text
       url: /faq/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 25 April 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
