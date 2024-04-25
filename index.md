@@ -21,12 +21,6 @@ sections:
           description: ""
           url: https://gmail.com
       variant: center
-  - infobar:
-      title: What is REDCap
-      description: REDCap is an easy-to-use web application designed to manage and
-        support electronic data capture for research activities.
-      button: Tell me more
-      url: /faq/
   - infopic:
       title: What is REDcap?
       subtitle: Electronic Data Capture
@@ -34,7 +28,7 @@ sections:
       description: REDCap is an easy-to-use web application designed to manage and
         support electronic data capture for research activities.
       button: Tell me more
-      url: /redcapfaq
+      url: /about-nhg-redcap/
       image: /images/digitaldata.jpg
       alt: Image alt text
 ---
