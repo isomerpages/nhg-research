@@ -21,3 +21,5 @@ knowledge.</p>
 <p>The REDCap Consortium is composed of 1,920 active institutional partners
 in 103 countries who utilize and support REDCap in various ways. The National
 Healthcare Group (NHG) is a member of the REDCap consortium.</p>
+<p>NHG's REDCap system was first launched in 2016 and is jointly administered
+and maintained by the NHG Group Research &amp; Innovation and Synapxe.</p>
