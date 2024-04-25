@@ -4,7 +4,7 @@ permalink: /nhg-redcap-login/
 variant: tiptap
 description: ""
 ---
-<p><strong><a href="https://redcapuat.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>NHG&nbsp;REDCap&nbsp;(Staging&nbsp;Server)&nbsp;Login</u></a></strong>
+<p><strong><a href="https://redcapuat.nhg.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>NHG&nbsp;REDCap&nbsp;(Staging&nbsp;Server)&nbsp;Login</u></a></strong> 
 <br><strong>The REDCap Staging Server</strong><em> is intended for </em><strong><em>testing and learning purposes ONLY</em></strong><em>.&nbsp; Users </em><strong><em>CANNOT</em></strong><em> to use the REDCap Staging Server to </em><strong><em>collect or store any actual data</em></strong><em>. </em><strong><em>All detected Non-Compliance will be reported to the Cluster Research Committee.</em></strong><em> All Data on the Staging Server will be deleted periodically </em><strong><em>without notice</em></strong><em>.</em>
 </p>
 <p>&nbsp;</p>
