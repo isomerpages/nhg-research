@@ -3,7 +3,7 @@ url: https://redcap.nhg.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#20409e"
-  secondary-color: "#4372d6"
+  secondary-color: "#dc090b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
