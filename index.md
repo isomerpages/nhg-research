@@ -22,9 +22,8 @@ sections:
           url: https://gmail.com
   - infobar:
       title: What is REDCap
-      description: "REDCap is an easy-to-use web application designed to
-        systematically manage and support electronic data capture for research
-        studies.   "
+      description: "REDCap is an easy-to-use web application designed to manage and
+        support electronic data capture for research activities. "
       button: Button text
       url: /faq/
 ---
