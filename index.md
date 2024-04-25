@@ -26,4 +26,14 @@ sections:
         support electronic data capture for research activities.
       button: Tell me more
       url: /faq/
+  - infopic:
+      title: What is REDcap?
+      subtitle: Electronic Data Capture
+      id: infopic
+      description: REDCap is an easy-to-use web application designed to manage and
+        support electronic data capture for research activities.
+      button: Tell me more
+      url: /redcapfaq
+      image: /images/digitaldata.jpg
+      alt: Image alt text
 ---
