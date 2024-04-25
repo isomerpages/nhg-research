@@ -20,6 +20,9 @@ sections:
         - title: REDCap Project Request
           description: ""
           url: https://gmail.com
+        - title: Login
+          description: ""
+          url: /login/
       variant: center
   - infopic:
       title: What is REDcap?
