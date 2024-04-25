@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Learning REDCap
           description: ""
-          url: /privacy/
+          url: /learn/
         - title: REDCap User Accounts
           description: ""
           url: https://google.com
