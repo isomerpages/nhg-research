@@ -4,8 +4,19 @@ permalink: /access/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>How to request for a new REDCap Project</u></strong>
+<h3>User Accounts</h3>
+<p>Only Staff of NHG may apply for NHG REDCap User Accounts.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please submit your REDCap Account Requests via the link below.</p>
+</li>
+<li>
+<p><strong><a href="https://redcap.nhg.com.sg/surveys/?s=FY8NDCDKWE" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap Online User-Account Request</a></strong>  <strong>(NHG <u>Intranet</u> access required)</strong>
 </p>
+</li>
+</ul>
+<p></p>
+<h3>REDCap Projects</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>To request for a REDCap Project, the Overall Study Principal Investigator
@@ -15,13 +26,12 @@ email back to us.</p>
 <li>
 <p>The REDCap Project Request Form is available for <a href="https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-001%20NHG%20REDCap%20Project%20Request%20Form.docx?Web=1" rel="noopener noreferrer nofollow" target="_blank">download here</a>.
 (NHG Intranet / HVPN Access required)
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://mynhg.nhg.com.sg/Div/GRDO/Shared%20Library/NHG%20REDCap/REDCap%20Request%20Forms/1305-001%20NHG%20REDCap%20Project%20Request%20Form.docx?Web=1</a>
+<br>
 </p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>IMPORTANT INFORMATION</strong>
-</p>
+<h3>Important</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>By using the NHG REDCap system, the REDCap Users agree to abide by the
