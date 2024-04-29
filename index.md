@@ -19,7 +19,7 @@ sections:
           url: /learn/
         - title: Getting Access
           description: ""
-          url: /accounts/
+          url: /access/
         - title: Login
           description: ""
           url: /login/
