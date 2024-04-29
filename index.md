@@ -19,7 +19,7 @@ sections:
           url: /accounts/
         - title: REDCap Projects
           description: Staring a new Project
-          url: https://gmail.com
+          url: /projects/
         - title: REDCap Login
           description: ""
           url: /login/
