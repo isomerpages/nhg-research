@@ -20,7 +20,7 @@ sections:
         - title: Getting Access
           description: ""
           url: /accounts/
-        - title: User Login
+        - title: Login
           description: ""
           url: /login/
       variant: center
