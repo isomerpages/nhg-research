@@ -16,7 +16,7 @@ sections:
           url: /learn/
         - title: REDCap User Accounts
           description: ""
-          url: https://google.com
+          url: /acctrequest/
         - title: REDCap Project Request
           description: ""
           url: https://gmail.com
