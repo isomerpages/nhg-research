@@ -2,5 +2,5 @@ collections:
   getting-access:
     output: true
     order:
-      - Request for User Account.md
       - Who can use NHG REDCap.md
+      - Request for User Account.md
