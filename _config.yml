@@ -1,8 +1,8 @@
-title: Title
+title: NHG REDCap End-User Support Site
 url: https://redcap.nhg.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#20409e"
+  primary-color: "#940817"
   secondary-color: "#dc090b"
   media-colors:
     - title: media-color-one
