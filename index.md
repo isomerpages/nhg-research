@@ -24,7 +24,7 @@ sections:
           description: ""
           url: /login/
       variant: center
-      subtitle: REDCap Helpdesk Support for the NHG Research Community
+      subtitle: REDCap Helpdesk Support for the NHG Research Community End-Users
   - infopic:
       title: What is REDcap?
       subtitle: Electronic Data Capture
