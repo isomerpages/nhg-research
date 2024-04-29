@@ -32,7 +32,7 @@ sections:
       description: REDCap is an easy-to-use web application designed to manage and
         support electronic data capture for research activities.
       button: Tell me more
-      url: /about-nhg-redcap/
+      url: /about/
       image: /images/digitaldata.jpg
       alt: Image alt text
 ---
