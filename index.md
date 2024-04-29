@@ -11,12 +11,12 @@ sections:
       title: NHG REDCap Support Site
       background: /images/RED.jpg
       key_highlights:
+        - title: What is REDCap?
+          description: ""
+          url: /accounts/
         - title: Learning Resources
           description: Learn to use REDCap
           url: /learn/
-        - title: User Accounts
-          description: Getting Access
-          url: /accounts/
         - title: REDCap Projects
           description: Staring a new Project
           url: /projects/
