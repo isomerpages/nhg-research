@@ -8,7 +8,7 @@ notification: The NHG REDCap Production Server will be closed for maintenance
   between 1st to 3rd Dec 2025.
 sections:
   - hero:
-      title: NHG REDCap Support Site
+      title: NHG REDCap
       background: /images/RED.jpg
       key_highlights:
         - title: About REDCap
