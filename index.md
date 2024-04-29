@@ -17,8 +17,8 @@ sections:
         - title: User Accounts
           description: Getting Access
           url: /accounts/
-        - title: REDCap Project Request
-          description: ""
+        - title: REDCap Projects
+          description: Staring a new Project
           url: https://gmail.com
         - title: REDCap Login
           description: ""
