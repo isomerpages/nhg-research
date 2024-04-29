@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Who can use NHG REDCap.md
-      - NHG REDCap Login.md
