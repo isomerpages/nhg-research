@@ -14,7 +14,7 @@ sections:
         - title: Learning REDCap
           description: ""
           url: /learn/
-        - title: REDCap User Accounts
+        - title: User Accounts
           description: Getting Access
           url: /accounts/
         - title: REDCap Project Request
