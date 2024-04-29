@@ -11,7 +11,7 @@ sections:
       title: NHG REDCap Support Site
       background: /images/RED.jpg
       key_highlights:
-        - title: What is REDCap?
+        - title: About REDCap
           description: ""
           url: /about/
         - title: Learning Resources
