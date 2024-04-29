@@ -2,6 +2,6 @@ collections:
   getting-access:
     output: true
     order:
-      - Request for REDCap Project.md
       - Who can use NHG REDCap.md
       - Request for User Account.md
+      - Request for REDCap Project.md
