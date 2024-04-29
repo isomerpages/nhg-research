@@ -17,9 +17,9 @@ sections:
         - title: Learning Resources
           description: Learn to use REDCap
           url: /learn/
-        - title: REDCap Projects
-          description: Staring a new Project
-          url: /projects/
+        - title: Getting Access
+          description: ""
+          url: /accounts/
         - title: User Login
           description: ""
           url: /login/
