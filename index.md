@@ -8,11 +8,11 @@ notification: The NHG REDCap Production Server will be closed for maintenance
   between 1st to 3rd Dec 2025.
 sections:
   - hero:
-      title: NHG REDCap
+      title: NHG REDCap Support Site
       background: /images/RED.jpg
       key_highlights:
-        - title: Learning REDCap
-          description: ""
+        - title: Learning Resources
+          description: Learn to use REDCap
           url: /learn/
         - title: User Accounts
           description: Getting Access
@@ -24,6 +24,7 @@ sections:
           description: ""
           url: /login/
       variant: center
+      subtitle: REDCap Helpdesk Support for the NHG Research Community
   - infopic:
       title: What is REDcap?
       subtitle: Electronic Data Capture
