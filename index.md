@@ -20,7 +20,7 @@ sections:
         - title: REDCap Projects
           description: Staring a new Project
           url: /projects/
-        - title: REDCap Login
+        - title: User Login
           description: ""
           url: /login/
       variant: center
