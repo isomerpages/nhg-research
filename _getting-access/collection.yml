@@ -1,4 +1,5 @@
 collections:
   getting-access:
     output: true
-    order: []
+    order:
+      - NHG REDCap Login.md
