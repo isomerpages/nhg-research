@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: What is REDCap?
           description: ""
-          url: /accounts/
+          url: /about/
         - title: Learning Resources
           description: Learn to use REDCap
           url: /learn/
