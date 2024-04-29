@@ -14,8 +14,8 @@ sections:
         - title: About REDCap
           description: ""
           url: /about/
-        - title: Learning Resources
-          description: Learn to use REDCap
+        - title: Learn REDCap
+          description: ""
           url: /learn/
         - title: Getting Access
           description: ""
