@@ -2,4 +2,5 @@ collections:
   about-redcap:
     output: true
     order:
+      - Why use REDCap?.md
       - About REDCap.md
