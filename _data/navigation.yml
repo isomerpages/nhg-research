@@ -4,7 +4,7 @@ links:
     url: /about/
   - title: Getting Access
     collection: getting-access
-  - title: Learning resource
-    url: /learn/
+  - title: Learning Resources
+    collection: learning-resources
   - title: Contact Us
     url: /contact-us/
