@@ -2,5 +2,5 @@ collections:
   learning-resources:
     output: true
     order:
-      - faq.md
       - Learning REDCap.md
+      - faq.md
