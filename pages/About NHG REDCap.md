@@ -22,10 +22,10 @@ the collected data for analysis, without the need for in-depth technical
 knowledge.</p>
 <p></p>
 <h4>REDCap in NHG</h4>
-<p>The REDCap Consortium is composed of 1,920 active institutional partners
-in 103 countries who utilize and support REDCap in various ways. The National
-Healthcare Group (NHG) is a member of the REDCap consortium.</p>
-<p>NHG's REDCap system was first launched in 2016 and is jointly administered
-and maintained by the NHG Group Research &amp; Innovation and Synapxe.
-NHG REDCap is available for use by approved research activities and registered
-Standing Databases.</p>
+<p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
+which is composed of 1,920 active institutional partners in 103 countries
+who utilize and support REDCap in various ways.</p>
+<p>&nbsp;NHG's REDCap system was first launched in 2016 and is jointly managed
+by the NHG Group Research &amp; Innovation (GRI) and Synapxe. NHG REDCap
+is available for use by approved research activities and registered Standing
+Databases.</p>
