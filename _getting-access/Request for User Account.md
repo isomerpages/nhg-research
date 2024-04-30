@@ -4,4 +4,4 @@ permalink: /request-for-user-account/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>How to request for a NHG REDCap User Account.</p>
