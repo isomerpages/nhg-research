@@ -22,6 +22,16 @@ sections:
           url: /login/
       variant: center
       subtitle: REDCap Helpdesk Support for the NHG Research Community End-Users
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 30 April 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: What is REDcap?
       subtitle: Electronic Data Capture
@@ -32,4 +42,8 @@ sections:
       url: /about/
       image: /images/digitaldata.jpg
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
