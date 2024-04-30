@@ -25,7 +25,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Launch of new NHG REDCap Helpdesk Website
           date: 30 April 2024
