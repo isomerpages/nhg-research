@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About REDCap
+    url: /about/
+  - title: Getting Access
+    collection: getting-access
+  - title: Learning REDCap
+    url: /learn/
   - title: Contact Us
     url: /contact-us/
-  - title: Getting Access to NHG REDCap
-    collection: getting-access
-  - title: Example Page
-    url: /example-page/
