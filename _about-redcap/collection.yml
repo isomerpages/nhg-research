@@ -1,0 +1,4 @@
+collections:
+  about-redcap:
+    output: true
+    order: []
