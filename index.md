@@ -27,11 +27,11 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
+        - title: Launch of new NHG REDCap Helpdesk Website
           date: 30 April 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: Welcome to our new NHG REDCap Helpdesk website!
+          link_text: Learn more
+          link_url: /announce1/
   - infopic:
       title: What is REDcap?
       subtitle: Electronic Data Capture
