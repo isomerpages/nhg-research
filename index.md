@@ -11,9 +11,6 @@ sections:
       title: NHG REDCap
       background: /images/RED.jpg
       key_highlights:
-        - title: About REDCap
-          description: ""
-          url: /about/
         - title: Learn REDCap
           description: ""
           url: /learn/
