@@ -2,6 +2,7 @@ collections:
   learning-resources:
     output: true
     order:
+      - Videos.md
       - Learning REDCap.md
       - User Guides.md
       - FAQs.md
