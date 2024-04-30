@@ -1,0 +1,4 @@
+collections:
+  learning-resources:
+    output: true
+    order: []
