@@ -6,7 +6,7 @@ links:
     collection: getting-access
   - title: Learning Resources
     collection: learning-resources
-  - title: Contact Us
-    url: /contact-us/
   - title: Login
     url: /login/
+  - title: Contact Us
+    url: /contact-us/
