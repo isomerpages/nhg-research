@@ -1,4 +1,5 @@
 collections:
   about-redcap:
     output: true
-    order: []
+    order:
+      - About REDCap.md
