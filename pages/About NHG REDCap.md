@@ -12,14 +12,16 @@ sized projects in a systematic manner.</p>
 <p>With its user-friendly and menu driven interface, REDCap is intended to
 be a primarily "Self-Service" and easy-to-use tool where researchers can
 develop and deploy a REDCap Project with minimal IT Support.</p>
-<p>Users can quickly learn to use REDCap via the Tutorial videos, a built-in
-frequently asked questions knowledge bank, and embedded documentation.
+<p>Users can quickly and easily learn to use REDCap via the Tutorial videos,
+a built-in frequently asked questions knowledge bank, and embedded documentation.
 These guides all work together to guide the researcher in the learning
 and use of the system.</p>
 <p>Researchers can quickly create web-based databases and data capture forms
 with special features like real-time data entry validation and easily export
 the collected data for analysis, without the need for in-depth technical
 knowledge.</p>
+<p>Visit the <a href="https://projectredcap.org/about/consortium/" rel="noopener noreferrer nofollow" target="_blank">REDCap Consortium here</a> for
+more information.</p>
 <p></p>
 <h4>REDCap in NHG</h4>
 <p>The National Healthcare Group (NHG) is a member of the REDCap Consortium
