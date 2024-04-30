@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /login/
       variant: center
-      subtitle: REDCap Helpdesk Support for the NHG Research Community End-Users
+      subtitle: REDCap Helpdesk Support for the NHG Research Community
   - announcements:
       title: Announcements
       id: announcements
