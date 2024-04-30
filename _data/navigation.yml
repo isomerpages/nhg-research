@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About REDCap
     url: /about/
+  - title: Announcements
+    url: /announce/
   - title: Getting Access
     collection: getting-access
   - title: Learning resource
