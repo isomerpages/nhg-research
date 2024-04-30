@@ -16,7 +16,7 @@ to protect the Study Participants’ privacy and confidentiality.&nbsp;</p>
 <br>
 <br>
 <br>
-<br><strong><a href="https://redcapuat.nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap Staging Server Login</a></strong>
+<br><strong><a href="https://redcapuat.nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap Staging Server Login</a></strong> 
 <br>
 </p>
 <p>The NHG REDCap Staging Server is intended for authorised users for learning
