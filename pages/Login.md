@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>FOR AUTHORIZED NHG USERS ONLY.&nbsp;<br>ALL ACTIVITIES ARE LOGGED.<br><br></h4>
-<p><strong><a href="https://redcap.nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap Production Server</a></strong>
+<p><strong><a href="https://redcap.nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap Production Server</a></strong> 
 <br>
 <br>The REDCap Production Server is the regulated REDCap environment in which
 Ethics approved Research Activities are to be carried out in strict accordance
@@ -16,8 +16,8 @@ to protect the Study Participants’ privacy and confidentiality.&nbsp;</p>
 <br>
 <br>
 <br>
-<br><strong>NHG REDCAP STAGING SERVER LOGIN</strong>
-<br><a href="https://redcap.nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<br><strong><a href="https://redcapuat.nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">NHG REDCap Staging Server Login</a></strong>
+<br>
 </p>
 <p>The NHG REDCap Staging Server is intended for authorised users for learning
 purposes and&nbsp;to test out REDCap Project designs. Users <strong>CANNOT</strong> to
