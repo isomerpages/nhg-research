@@ -8,12 +8,18 @@ contacts:
       - phone: ""
       - email: redcap@nhg.com.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: NHG REDCap Helpdesk
   - content:
       - phone: ""
       - email: ""
-      - other: <p><strong>Mon - Fri:&nbsp;8.30am - 6.00pm</strong><br> Closed on Public
+      - other: <p><strong>Mon - Fri:&nbsp;9am - 5pm</strong><br> Closed on Public
           Holidays</p>
     title: Operating Hours
+  - content:
+      - phone: ""
+      - email: ""
+      - other: The NHG REDCap Helpdesk will only provide support to NHG Staff and Users
+          of the NHG REDCap system.
+    title: Important
 feedback: ""
 ---
