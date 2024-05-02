@@ -10,3 +10,5 @@ links:
     url: /login/
   - title: Contact Us
     url: /contact-us/
+  - title: About REDCap 2
+    collection: about-redcap
