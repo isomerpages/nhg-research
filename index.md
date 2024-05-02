@@ -17,7 +17,7 @@ sections:
         - title: Access
           description: ""
           url: /access/
-        - title: Learning Resources
+        - title: Learn
           description: ""
           url: /learn/
         - title: Login
