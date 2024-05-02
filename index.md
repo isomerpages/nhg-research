@@ -11,10 +11,10 @@ sections:
       title: NHG REDCap
       background: /images/RED.jpg
       key_highlights:
-        - title: About REDCap
+        - title: About
           description: ""
           url: /about/
-        - title: Getting Access
+        - title: Access
           description: ""
           url: /access/
         - title: Learning Resources
