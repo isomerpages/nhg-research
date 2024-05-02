@@ -2,6 +2,6 @@ collections:
   about-redcap:
     output: true
     order:
-      - REDCap Features.md
       - About REDCap.md
       - Why use REDCap?.md
+      - REDCap Features.md
