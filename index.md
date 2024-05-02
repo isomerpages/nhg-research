@@ -10,23 +10,13 @@ sections:
   - hero:
       title: NHG REDCap
       background: /images/redbkgrdwsmlogo.jpg
-      key_highlights:
-        - title: About
-          description: ""
-          url: /about/
-        - title: Access
-          description: ""
-          url: /access/
-        - title: Learn
-          description: ""
-          url: /learn/
-        - title: Login
-          description: ""
-          url: /login/
       variant: floating
       subtitle: Helpdesk Support for the NHG Research Community
       backgroundColor: gray
       size: md
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - announcements:
       title: Announcements
       id: announcements
