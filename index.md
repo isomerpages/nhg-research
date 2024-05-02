@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NHG REDCap End-User Support Site
+title: NHG REDCap Helpdesk Website
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
