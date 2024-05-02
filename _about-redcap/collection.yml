@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About REDCap.md
-      - Who can use NHG REDCap.md
+      - Who can use REDCap in NHG.md
       - Why use REDCap?.md
       - REDCap Features.md
