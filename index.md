@@ -11,9 +11,9 @@ sections:
       title: NHG REDCap
       background: /images/RED.jpg
       key_highlights:
-        - title: Learn REDCap
+        - title: About REDCap
           description: ""
-          url: /learn/
+          url: /about/
         - title: Getting Access
           description: ""
           url: /access/
@@ -23,8 +23,10 @@ sections:
         - title: Login
           description: ""
           url: /login/
-      variant: center
+      variant: floating
       subtitle: REDCap Helpdesk Support for the NHG Research Community
+      backgroundColor: gray
+      size: md
   - announcements:
       title: Announcements
       id: announcements
