@@ -4,3 +4,4 @@ permalink: /redcap-features/
 variant: tiptap
 description: ""
 ---
+<p>REDCap Features</p>
