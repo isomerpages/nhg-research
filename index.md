@@ -24,7 +24,7 @@ sections:
           description: ""
           url: /login/
       variant: floating
-      subtitle: REDCap Helpdesk Support for the NHG Research Community
+      subtitle: Helpdesk Support for the NHG Research Community
       backgroundColor: gray
       size: md
   - announcements:
