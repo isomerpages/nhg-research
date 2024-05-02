@@ -9,7 +9,7 @@ notification: The NHG REDCap Production Server will be closed for maintenance
 sections:
   - hero:
       title: NHG REDCap
-      background: /images/redbkgrdwlogo.jpg
+      background: /images/redbkgrdwsmlogo.jpg
       key_highlights:
         - title: About
           description: ""
