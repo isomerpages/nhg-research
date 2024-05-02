@@ -2,7 +2,7 @@ collections:
   about-redcap:
     output: true
     order:
-      - Who can use NHG REDCap.md
       - About REDCap.md
+      - Who can use NHG REDCap.md
       - Why use REDCap?.md
       - REDCap Features.md
