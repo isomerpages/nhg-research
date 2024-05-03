@@ -14,6 +14,16 @@ sections:
       subtitle: Helpdesk Support for the NHG Research Community
       backgroundColor: gray
       size: md
+      key_highlights:
+        - title: About REDCap
+          description: Key Highlight description
+          url: /whatisredcap/
+        - title: Learn
+          description: Key Highlight description
+          url: /learn/
+        - title: Getting Access
+          description: Key Highlight description
+          url: /who/
   - announcements:
       title: Announcements
       id: announcements
