@@ -15,14 +15,14 @@ sections:
       backgroundColor: gray
       size: md
       key_highlights:
-        - title: About REDCap
-          description: Key Highlight description
+        - title: About
+          description: ""
           url: /whatisredcap/
         - title: Learn
-          description: Key Highlight description
+          description: ""
           url: /learn/
-        - title: Getting Access
-          description: Key Highlight description
+        - title: Access
+          description: ""
           url: /who/
         - title: Login
           description: ""
