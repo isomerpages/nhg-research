@@ -14,9 +14,6 @@ sections:
       subtitle: Helpdesk Support for the NHG Research Community
       backgroundColor: gray
       size: md
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - announcements:
       title: Announcements
       id: announcements
