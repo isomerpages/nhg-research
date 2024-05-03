@@ -24,6 +24,9 @@ sections:
         - title: Getting Access
           description: Key Highlight description
           url: /who/
+        - title: Login
+          description: ""
+          url: /login/
   - announcements:
       title: Announcements
       id: announcements
