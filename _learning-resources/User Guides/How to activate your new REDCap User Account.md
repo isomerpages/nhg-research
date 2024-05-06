@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: User Guides
 ---
-<p>Guidebooks</p>
+<p>How to activate your new REDCap User Account</p>
