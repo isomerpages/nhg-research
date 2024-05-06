@@ -1,4 +1,5 @@
 collections:
   policy-and-procedures:
     output: true
-    order: []
+    order:
+      - NHG REDCap End User Agreement.md
