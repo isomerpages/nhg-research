@@ -2,4 +2,5 @@ collections:
   policy-and-procedures:
     output: true
     order:
+      - Policies you need to know.md
       - NHG REDCap End User Agreement.md
