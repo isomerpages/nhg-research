@@ -4,11 +4,11 @@ links:
     collection: about-redcap
   - title: Getting Access
     collection: getting-access
+  - title: Policy & Procedures
+    collection: policy-and-procedures
   - title: Learning Resources
     collection: learning-resources
   - title: Login
     url: /login/
   - title: Contact Us
     url: /contact-us/
-  - title: Policy & Procedures
-    collection: policy-and-procedures
