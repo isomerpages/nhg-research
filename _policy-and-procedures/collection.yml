@@ -2,5 +2,6 @@ collections:
   policy-and-procedures:
     output: true
     order:
+      - Human Biomedical Research Act (HBRA).md
       - Policies you need to know.md
       - NHG REDCap End User Agreement.md
