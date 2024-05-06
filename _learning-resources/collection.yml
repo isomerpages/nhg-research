@@ -4,7 +4,7 @@ collections:
     order:
       - Learning REDCap.md
       - User Guides/.keep
-      - User Guides/New REDCap Project Request Guide.md
+      - User Guides/How to request for a new REDCap Project.md
       - User Guides/New REDCap User Account Activation Guide.md
       - FAQs.md
       - Videos.md
