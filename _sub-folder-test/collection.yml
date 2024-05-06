@@ -1,0 +1,4 @@
+collections:
+  sub-folder-test:
+    output: true
+    order: []
