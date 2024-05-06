@@ -9,7 +9,7 @@ notification: The NHG REDCap Production Server will be closed for maintenance
 sections:
   - hero:
       title: NHG REDCap
-      background: /images/redbkgrdwsmlogo.jpg
+      background: /images/Hero Banner/redbkgrdwsmlogo.jpg
       variant: floating
       subtitle: Helpdesk Support for the NHG Research Community
       backgroundColor: gray
