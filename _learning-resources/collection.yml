@@ -2,7 +2,7 @@ collections:
   learning-resources:
     output: true
     order:
-      - User Guides/User Guides.md
+      - User Guides/New REDCap User Account Activation Guide.md
       - User Guides/.keep
       - Learning REDCap.md
       - FAQs.md
