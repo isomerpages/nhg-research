@@ -2,7 +2,7 @@ collections:
   policy-and-procedures:
     output: true
     order:
+      - Policies you need to know.md
       - Personal Data Protection Act (PDPA).md
       - Human Biomedical Research Act (HBRA).md
-      - Policies you need to know.md
       - NHG REDCap System Usage Agreement.md
