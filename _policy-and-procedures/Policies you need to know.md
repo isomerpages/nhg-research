@@ -58,7 +58,7 @@ person in the given circumstances.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>References and Further Reading</strong>
+<p><strong>References and Further Reading</strong> 
 <br>
 <br>For more information on the Personal Data Protection Act, please refer
 to the following websites:</p>
