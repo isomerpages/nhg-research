@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>FOR AUTHORIZED NHG USERS ONLY.&nbsp;<br>ALL ACTIVITIES ARE LOGGED.</h4>
 <p>
-<br><strong>NHG REDCap Production Server</strong>
+<br><strong>NHG REDCap Production Server</strong> 
 <br>The REDCap Production Server is the regulated REDCap environment in which
 Ethics approved Research Activities are to be carried out in strict accordance
 to the requirements by the NHG Domain Specific Review Boards (DSRB), Personal
@@ -16,7 +16,7 @@ to protect the Study Participants’ privacy and confidentiality.&nbsp;</p>
 Intranet access only)</p>
 <p>
 <br>
-<br><strong>NHG REDCap Staging Server</strong>
+<br><strong>NHG REDCap Staging Server</strong> 
 <br>The NHG REDCap Staging Server is intended for authorised users for learning
 purposes and&nbsp;to test out REDCap Project designs. Users <strong>CANNOT</strong> to
 use the REDCap Staging Server to collect or store any actual research or
