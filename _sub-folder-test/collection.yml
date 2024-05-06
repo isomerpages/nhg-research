@@ -1,5 +1,0 @@
-collections:
-  sub-folder-test:
-    output: true
-    order:
-      - Sub Folder Page.md
