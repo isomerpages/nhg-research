@@ -1,0 +1,4 @@
+collections:
+  policy-and-procedures:
+    output: true
+    order: []
