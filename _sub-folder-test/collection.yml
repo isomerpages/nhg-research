@@ -1,4 +1,5 @@
 collections:
   sub-folder-test:
     output: true
-    order: []
+    order:
+      - Sub Folder Page.md
