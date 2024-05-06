@@ -1,5 +1,5 @@
 collections:
-  policy-and-procedures:
+  regulations-and-policies:
     output: true
     order:
       - Policies you need to know.md
