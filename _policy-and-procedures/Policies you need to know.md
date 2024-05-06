@@ -4,19 +4,23 @@ permalink: /policies-you-need-to-know/
 variant: tiptap
 description: ""
 ---
-<h4><strong>HUMAN BIOMEDICAL RESEARCH ACT (HBRA)</strong></h4>
+<h4>Regulations &amp; Policies that all Researchers need to know</h4>
 <p></p>
-<p>The HUMAN BIOMEDICAL RESEARCH ACT (HBRA) (Section 27) states that: "Every
-person who has obtained individually-identifiable information or human
-biological material for the purposes of human biomedical research must
-take all reasonable steps and safeguards as may be necessary, including
-rendering information or material non-identifiable, to protect such information
-or material against accidental or unlawful loss, modification or destruction,
-or unauthorised access, disclosure, copying, use or modification. Any person
-who contravenes these requirements in HBRA shall be guilty of an offence
-and shall be liable on conviction to a fine or to imprisonment or to both."</p>
+<p>Here are some of the critical Regulations and NHG policies that all NHG
+Researchers must be aware of before conducting any research activities.
+This is not an exhaustive list. We strongly recommend that researchers
+contact their Institution Clinical Research Units/Offices if they have
+any queries.</p>
 <p></p>
+<p><strong>Regulations</strong>
+</p>
+<p>Human Biomedical Research Act (HBRA)</p>
+<p>Personal Data Protection Act (PDPA)</p>
 <p></p>
-<h4></h4>
-<p>&nbsp;</p>
+<p><strong>NHG Policies</strong>
+</p>
+<p>NHG REDCap System Usage Agreement</p>
+<p>NHG Research Data Policy</p>
+<p>NHG Proper Conduct of Research Policy</p>
+<p></p>
 <p></p>
