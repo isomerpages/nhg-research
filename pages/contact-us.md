@@ -12,14 +12,14 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <p><strong>Mon - Fri:&nbsp;9am - 5pm</strong><br> Closed on Public
-          Holidays</p>
-    title: Operating Hours
+      - other: <b>The NHG REDCap Helpdesk can only provide support to NHG Staff and
+          Users of the NHG REDCap system.</b>
+    title: IMPORTANT
   - content:
       - phone: ""
       - email: ""
-      - other: The NHG REDCap Helpdesk can only provide support to NHG Staff and Users
-          of the NHG REDCap system.
-    title: Important
+      - other: <p><strong>Mon - Fri:&nbsp;9am - 5pm</strong><br> Closed on Public
+          Holidays</p>
+    title: Operating Hours
 feedback: ""
 ---
