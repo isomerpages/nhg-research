@@ -1,7 +1,5 @@
 logo: /images/Hero Banner/NHGResearchLogo.jpg
 links:
-  - title: About REDCap
-    collection: about-redcap
   - title: Getting Access
     collection: getting-access
   - title: Regulations And Policies
