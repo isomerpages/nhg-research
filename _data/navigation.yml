@@ -2,8 +2,6 @@ logo: /images/Hero Banner/NHGResearchLogo.jpg
 links:
   - title: Regulations And Policies
     collection: regulations-and-policies
-  - title: Learning Resources
-    collection: learning-resources
   - title: Login
     url: /login/
   - title: Contact Us
