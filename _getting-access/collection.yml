@@ -1,6 +1,0 @@
-collections:
-  getting-access:
-    output: true
-    order:
-      - Request for User Account.md
-      - Request for REDCap Project.md
