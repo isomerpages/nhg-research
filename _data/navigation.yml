@@ -1,2 +1,4 @@
 logo: /images/Others/isomer-logo.svg
-links: []
+links:
+  - title: New single page
+    url: /about/
