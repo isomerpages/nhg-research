@@ -8,10 +8,7 @@ notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       background: /images/Hero Banner/hero-banner.png
-      variant: center
+      variant: image
       backgroundColor: gray
       size: md
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
 ---
