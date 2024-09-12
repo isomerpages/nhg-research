@@ -7,7 +7,7 @@ permalink: /
 notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
-      background: /images/Hero Banner/hero-banner.png
+      background: /images/NHG2.jpg
       variant: center
       backgroundColor: gray
       size: md
