@@ -1,5 +1,5 @@
-title: Test Site
-url: https://redcap.nhg.com.sg
+title: NHG Group Research & Innovation (GRI)
+url: https://research.nhg.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#c10c20"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d244dpazjw3oon.amplifyapp.com
 prod: https://master.d1hy4rj1f7v0qy.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logos/NHG_Favicon.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
