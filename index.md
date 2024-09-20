@@ -26,4 +26,8 @@ sections:
           description: ""
           url: https://redcapsupport.gri.nhg.com.sg/
       url: https://talentdev.gri.nhg.com.sg/
+  - resources:
+      title: Announcements
+      id: resources
+      button: See more here
 ---
