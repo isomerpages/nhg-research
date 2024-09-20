@@ -11,7 +11,7 @@ sections:
       variant: center
       backgroundColor: gray
       size: md
-      title: NHG Group Research & Innovation (GRI)
+      title: NHG Group Research & Innovation
       key_highlights:
         - title: Clinician-Scientist Development Office (CSDO)
           description: ""
