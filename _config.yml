@@ -3,12 +3,12 @@ url: https://www.research.nhg.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#21409a"
-  secondary-color: "#600303"
+  secondary-color: "#00828d"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#00828d"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#00828d"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
