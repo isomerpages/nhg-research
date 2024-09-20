@@ -2,5 +2,13 @@ logo: /images/Logos/NHG_Logo__1000x900.jpg
 links:
   - title: About Us
     collection: about-us
+  - title: CSDO
+    url: https://talentdev.gri.nhg.com.sg/
+  - title: OHRPP
+    url: https://ethics.gri.nhg.com.sg/
+  - title: NHG-REDCap Support
+    url: https://redcapsupport.gri.nhg.com.sg/
+  - title: ECOS-Support
+    url: https://ecossupport.gri.nhg.com.sg/
   - title: Contact Us
     url: /contact-us/
