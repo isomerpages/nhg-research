@@ -12,4 +12,18 @@ sections:
       backgroundColor: gray
       size: md
       title: NHG Group Research & Innovation (GRI)
+      key_highlights:
+        - title: Clinician-Scientist Development Office (CSDO)
+          description: ""
+          url: https://talentdev.gri.nhg.com.sg/
+        - title: Office of Human Research Protection Programme (OHRPP)
+          description: ""
+          url: https://ethics.gri.nhg.com.sg/
+        - title: ECOS End-User Support Portal
+          description: ""
+          url: https://ecossupport.gri.nhg.com.sg/
+        - title: NHG REDCap Helpdesk
+          description: ""
+          url: https://redcapsupport.gri.nhg.com.sg/
+      url: https://talentdev.gri.nhg.com.sg/
 ---
