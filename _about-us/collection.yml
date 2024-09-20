@@ -2,4 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - NHG Group Research & Innovation (GRI).md
+      - NHG Group Research & Innovation.md
