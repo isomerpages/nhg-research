@@ -1,6 +1,6 @@
 logo: /images/Logos/NHG_Logo__1000x900.jpg
 links:
-  - title: About
-    url: /about/
+  - title: About Us
+    collection: about-us
   - title: Contact Us
     url: /contact/
