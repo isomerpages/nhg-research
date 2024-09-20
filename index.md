@@ -1,32 +1,29 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: NHG Group Research & Innovation (GRI)
+description: A National Healthcare Group (NHG) site built with Isomer
+image: /images/Logos/NHG_Favicon.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Hero Banner/NHG2.jpg
+      variant: center
+      backgroundColor: gray
+      size: md
+      title: NHG Group Research & Innovation
+      key_highlights:
+        - title: Clinician-Scientist Development Office (CSDO)
+          description: ""
+          url: https://talentdev.gri.nhg.com.sg/
+        - title: Office of Human Research Protection Programme (OHRPP)
+          description: ""
+          url: https://ethics.gri.nhg.com.sg/
+        - title: ECOS End-User Support Portal
+          description: ""
+          url: https://ecossupport.gri.nhg.com.sg/
+        - title: NHG REDCap Helpdesk
+          description: ""
+          url: https://redcapsupport.gri.nhg.com.sg/
+      url: https://talentdev.gri.nhg.com.sg/
 ---
-
