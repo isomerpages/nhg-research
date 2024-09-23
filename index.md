@@ -4,10 +4,10 @@ title: NHG Group Research & Innovation (GRI)
 description: A National Healthcare Group (NHG) site built with Isomer
 image: /images/Logos/NHG_Favicon.png
 permalink: /
-notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
+notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/NHG2.jpg
+      background: /images/Hero Banner/Fabric_of_Life_Design.png
       variant: center
       backgroundColor: gray
       size: md
@@ -26,8 +26,4 @@ sections:
           description: ""
           url: https://redcapsupport.gri.nhg.com.sg/
       url: https://talentdev.gri.nhg.com.sg/
-  - resources:
-      title: Announcements
-      id: resources
-      button: See more here
 ---
