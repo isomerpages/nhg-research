@@ -7,7 +7,7 @@ permalink: /
 notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
-      background: /images/Hero Banner/NHG2.jpg
+      background: /images/Hero Banner/Fabric_of_Life_Design.png
       variant: center
       backgroundColor: gray
       size: md
