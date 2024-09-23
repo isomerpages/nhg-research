@@ -11,7 +11,7 @@ sections:
       variant: center
       backgroundColor: gray
       size: md
-      title: NHG Group Research & Innovation
+      title: NHG Group Research & Innovation (GRI)
       key_highlights:
         - title: Clinician-Scientist Development Office (CSDO)
           description: ""
@@ -26,4 +26,9 @@ sections:
           description: ""
           url: https://redcapsupport.gri.nhg.com.sg/
       url: https://talentdev.gri.nhg.com.sg/
+  - infobar:
+      title: We have relocated our Content!
+      subtitle: Visit our new Sites!
+      id: infobar
+      description: Visit our new sites listed above.
 ---
