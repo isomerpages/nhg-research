@@ -1,7 +1,0 @@
-collections:
-  about-research:
-    output: true
-    order:
-      - Complaints/How to Complain about the PI?.md
-      - Complaints/.keep
-      - Ethics Review/.keep
