@@ -16,6 +16,9 @@ third_nav_title: Complaints
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictures/digitaldata.jpg">
+</div>
 <p>The <strong>Quick Brown Fox</strong>  <em>Jumps</em>  <strong>over the</strong>  <u>Lazy</u>  <strong>Dog</strong>
 </p>
 <p></p>
