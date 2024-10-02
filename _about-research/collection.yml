@@ -1,4 +1,5 @@
 collections:
   about-research:
     output: true
-    order: []
+    order:
+      - Ethics Review/.keep
