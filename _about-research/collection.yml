@@ -2,4 +2,5 @@ collections:
   about-research:
     output: true
     order:
+      - Complaints/.keep
       - Ethics Review/.keep
