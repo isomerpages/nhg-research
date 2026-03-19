@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: NHG Group Research & Innovation (GRI)
-description: A National Healthcare Group (NHG) site built with Isomer
+description: A NHG Health site built with Isomer
 image: /images/Logos/NHG_Favicon.png
 permalink: /
 notification: ""
