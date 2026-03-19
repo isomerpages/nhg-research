@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>NHG Group Research &amp; Innovation</strong></h4>
-<p>At NHG, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
+<p>At NHG Health, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
 at the heart of <strong>advancing healthcare</strong>.</p>
 <p>Established in 2004 in NHG, the <strong>NHG Group Research &amp; Innovation (GRI)</strong> is
 dedicated to cultivating medical research and developing innovative medical
