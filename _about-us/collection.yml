@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - National Healthcare Group.md
+      - NHG Health.md
       - NHG Group Research & Innovation.md
